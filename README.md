@@ -1,2 +1,2 @@
 # MyPlayground
-work and play
+Do what you know, and know what you do.
